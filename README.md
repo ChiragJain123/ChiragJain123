@@ -15,7 +15,7 @@
 <br>
 <br>
 <p align="center">
-<a href="https://linkedin.com/in/iharshitsharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iharshitsharma" height="20" width="20" /></a>
-<a href="https://fb.com/harshitshharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="harshitshharma" height="20" width="20" /></a>
-  <a href="https://codepen.io/icoderharshit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ibhavikamalhotra" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/chirag-jain-9614481b6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ChiragJain" height="20" width="20" /></a>
+<a href="https://www.facebook.com/profile.php?id=100014606834040" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ChiragJain" height="20" width="20" /></a>
+  <a href="https://www.instagram.com/plethora_of_cuteness_chirag/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ChiragJain" height="20" width="20" /></a>
 </p>
