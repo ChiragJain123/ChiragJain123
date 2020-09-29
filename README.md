@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning ...**Python**
 - 💬 Ask me about ...**C, C++, Java.**
 - 📫 How to reach me: ... **https://chiragjain123.github.io/Profile/**
-- ✨ Some inspirational persons in my life: ... **Nikola Tesla⚡ Bill Gates and Jeff Bezos
+- ✨ Some inspirational persons in my life: ... **Nikola Tesla⚡ Bill Gates and Jeff Bezos**
 - ⚡ My thought: ... **Think Innovative 💡 Do Creative 🙇 Work Hard 🪓 and Live the Life to the Fullest🤩**
 <p align="center"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" height="40" width="40" alt="C"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="40" width="40" alt="C++"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="40" width="40" alt="Java"/><img src="https://img.icons8.com/color/48/000000/python.png" height="40" width="40" alt="Python"/></p>
 <br>
